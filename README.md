@@ -1,5 +1,5 @@
 ### Hi, I'm Jolana 👋
-I'm an experienced open source analyst and aspiring cyber threat intelligence analyst and I love writing code, playing CTFs, and solving puzzles.</br>
+I'm an experienced open source analyst and I love writing code, playing CTFs, and solving puzzles.</br>
 You can contact me at linkedin.com/in/jolana-veneny 
 
 <!--
